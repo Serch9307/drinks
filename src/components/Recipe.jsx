@@ -89,7 +89,7 @@ const Recipe = (myRecipe) => {
                             <p>
                                 {recipe.strInstructions}
                             </p>
-                            <img className='img-fluid my-4' src={recipe.strDrinkThumb} />
+                            <img className='img-fluid my-4' src={recipe.strDrinkThumb} alt='drinks for our recipe' />
 
                             <h3>Ingredients and Quantities</h3>
                             <ul>

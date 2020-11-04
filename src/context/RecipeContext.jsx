@@ -28,7 +28,7 @@ const RecipeProvider = (props) => {
         }
         
 
-    },[searchRecipe,consult])
+    },[searchRecipe,consult,name, category])
 
     return (
         <RecipeContext.Provider
