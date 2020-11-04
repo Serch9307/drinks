@@ -1,3 +1,6 @@
+# Production Site 
+Open [Drinks](https://nostalgic-wright-e3ce20.netlify.app/) to view it in the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
